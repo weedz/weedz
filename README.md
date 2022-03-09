@@ -1,1 +1,3 @@
-The Code :robot:
+:robot: Code :robot:
+
+🤟 Open Source 🤟
